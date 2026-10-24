@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# 取得結果
+*-reviews-past-*.csv
+*-reviews-past-*.json
+summary.json
+summary-play.json
